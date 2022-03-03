@@ -188,7 +188,7 @@ a:active {
   background-color: #034f84;
   color: white;
   border-radius: 3px;
-  box-shadow: 1px 1px 3px #232621;
+  box-shadow: 1px 1px 10px #232621;
   position: relative;
   top: calc(50% - 41vmin);
   left: 13%;
@@ -433,7 +433,7 @@ a:active {
   .right_screen {
     width: 100%;
     height: 100vmin;
-    margin-left: 10px;
+    margin-left: 20px;
   }
 
   .left_screen {
