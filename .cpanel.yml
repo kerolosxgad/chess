@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/codexeg/chess.codexeg.net/
-    - /bin/cp -R * $DEPLOYPATH

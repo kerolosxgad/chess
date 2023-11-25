@@ -1157,7 +1157,7 @@ class Board extends React.Component {
               </div>
               <div className="wrapper">
                 <a href="https://www.codexeg.net/" className="codex">
-                  <img src="logo.png" alt="CodeX-Egypt-Logo" className="codex"></img>
+                  <img src="logo.svg" alt="CodeX-Egypt-Logo" className="codex"></img>
                 </a>
               </div>
             </div>
